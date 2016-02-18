@@ -1,0 +1,26 @@
+{
+  "name": "node-discussions",
+  "version": "1.0.0",
+  "description": "Node Discussions",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "_mocha test/**/*.tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://TylerGarlick@github.com/LeisureLink/node-discussions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeisureLink/node-discussions/issues"
+  },
+  "homepage": "https://github.com/LeisureLink/node-discussions#readme",
+  "devDependencies": {
+    "babel-preset-pundits": "^1.0.2",
+    "code": "^2.1.0",
+    "mocha": "^2.4.5"
+  }
+}
